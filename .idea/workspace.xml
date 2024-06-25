@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b2e1082-e79a-4e40-83c5-14a238b8cbe2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/codemart_back_java/src/main/java/com/codemart/codemart_back_java/common/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codemart_back_java/src/main/java/com/codemart/codemart_back_java/service/UserInfoService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/codemart_back_java" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2hcafCgcBZmUQT4aH8x7BhEmn0R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java Projects/codemart/codemart_font_vue/codemart_font_vue/src/assets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15625&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;ffc92be415ce610c6fcbab323c57fc66&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\appdata\\idea\\IntelliJ IDEA 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java Projects\codemart\codemart_font_vue\codemart_font_vue\src\assets" />
+      <recent name="E:\Java Projects\codemart\codemart_font_vue\codemart_font_vue\src\components" />
+      <recent name="E:\Java Projects\codemart\codemart_back_java\src\main\java\com\codemart\codemart_back_java\exceptions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java Projects\codemart\codemart_font_vue\codemart_font_vue\src\views" />
+      <recent name="E:\Java Projects\codemart\codemart_font_vue\codemart_font_vue\src\components" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codemart.codemart_back_java.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CodemartBackJavaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="codemart_back_java" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codemart.codemart_back_java.CodemartBackJavaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b2e1082-e79a-4e40-83c5-14a238b8cbe2" name="Changes" comment="" />
+      <created>1717895923008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717895923008</updated>
+      <workItem from="1717895924108" duration="2080000" />
+      <workItem from="1717900654075" duration="2748000" />
+      <workItem from="1717903421762" duration="5801000" />
+      <workItem from="1718108175292" duration="5347000" />
+      <workItem from="1718160878193" duration="1181000" />
+      <workItem from="1718162072713" duration="91000" />
+      <workItem from="1718162174355" duration="110000" />
+      <workItem from="1718162296791" duration="62000" />
+      <workItem from="1718162369640" duration="8072000" />
+      <workItem from="1718191304599" duration="56535000" />
+      <workItem from="1718552594986" duration="458000" />
+      <workItem from="1718573467288" duration="4749000" />
+      <workItem from="1718590592159" duration="74743000" />
+      <workItem from="1718887335268" duration="34755000" />
+      <workItem from="1719228922011" duration="17758000" />
+      <workItem from="1719304194666" duration="4986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
